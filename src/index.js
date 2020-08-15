@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './components/App';
 import * as serviceWorker from './serviceWorker';
-
+// this is the entrance of the javascript
 ReactDOM.render(
 
     <App />,
