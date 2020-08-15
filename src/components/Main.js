@@ -5,7 +5,7 @@ import { NEARBY_SATELLITE, SAT_API_KEY, STARLINK_CATEGORY } from '../constants';
 import SatSetting from './SatSetting';
 import SatelliteList from './SatelliteList';
 import WorldMap from './WorldMap';
-
+// This is the top of the APP
 class Main extends Component {
     constructor(){
         super();
